@@ -1,3 +1,3 @@
 if __name__ == "__main__":
-    print("Hello, GitHub!")
-    print("This is a change from the local repository")
+    print("Este es un cambio")
+    print("Este es otro cambio para causar un conflicto...")
